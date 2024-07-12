@@ -14,7 +14,7 @@ You can check out the live demo [here](https://mohit-kucheriya.github.io/JS_Stop
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Mohit-Kucheriya/JS_StopWatch/blob/397bd87498c87f38a8bddff444f2400a3979400d/JS-Stopwatch.png)
+![Screenshot 1](https://github.com/Mohit-Kucheriya/JS_StopWatch/blob/f2c7c1565cb0447690cba2be81577f6e5c7b5391/StopWatchJS.png)
 
 
 ## Usage
