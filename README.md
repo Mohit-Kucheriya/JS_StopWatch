@@ -4,7 +4,7 @@ A simple and elegant stopwatch application built using HTML, CSS, and JavaScript
 
 ## Demo
 
-You can check out the live demo [here](https://mohit-kucheriya.github.io/JS_StopWatch/).
+You can check out the live demo [↗️](https://mohit-kucheriya.github.io/JS_StopWatch/)
 
 ## Features
 
